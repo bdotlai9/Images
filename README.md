@@ -1,2 +1,2 @@
 # Images
-Images are used to customize background on Discord using Vencord
+Images are used to customize background on Discord with Vencord
